@@ -58,12 +58,16 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ],
-      "include": [
-  "./src/ts/**/*"
-]
+    ]
     
   },
+    {
+  "compilerOptions": {
+
+    "jsx": "preserve",                     /* Specify JSX code generation: 'preserve', 'react-native', or 'react'. */
+
+    }
+},
   "devDependencies": {
     "@types/react-slick": "^0.23.8",
     "file-loader": "^6.2.0",
