@@ -26,8 +26,8 @@ import './buttoncss.min.css';
 
 export default function Simple() {
   const courseTitle = 'Basics Of Programming'     //added editable variables
-  const courseSubscript = 'Beginner | 2 weeks | 4 Tests'
-  const courseDescription = 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore'
+  const courseSubscript = 'Beginner 3 | 2 weeks | 4 Tests'
+  const courseDescription = 'Final basics course to ensure deep learning of the concepts.'
   
   const courseObj1 = 'Python Data-Structures'
   const courseObj2 = 'Objective 1'
@@ -36,10 +36,7 @@ export default function Simple() {
   const courseObj5 = 'Objective 4'
   const courseObj6 = 'Objective 5'
 
-  const courseDetails1 = 'Detailed description of this detail lol 1'
-  const courseDetails2 = 'Less detailed desc lol'
-  const courseDetails3 = 'Detailed description of this detail lol 1'
-  const courseDetails4 = 'Less detailed desc lol'
+ 
   
   const courseImage = 'https://cdnp3.stackassets.com/5ec33c53880e8d0283d8fdf6cd74a33c69986417/store/opt/596/298/32847d89bc162caa419426bfbf99cb65c9d3efe82f959464ec47b45fe771/product_322455_product_shot_wide.jpg'
 
