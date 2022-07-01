@@ -2,6 +2,7 @@
   "name": "adaler",
   "version": "0.1.0",
   "private": true,
+    
   "dependencies": {
     "@capacitor/android": "^3.4.3",
     "@capacitor/cli": "^3.4.3",
@@ -57,7 +58,11 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ]
+    ],
+      "include": [
+  "./src/ts/**/*"
+]
+    
   },
   "devDependencies": {
     "@types/react-slick": "^0.23.8",
