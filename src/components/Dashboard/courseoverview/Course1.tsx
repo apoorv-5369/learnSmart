@@ -17,7 +17,7 @@ import {
 import './buttoncss.min.css';
 export default function Simple() {
   const courseTitle = 'Basics Of Programming'     //added editable variables
-  const courseSubscript = 'Beginner | 2 weeks | 4 Tests'
+  const courseSubscript = 'Beginner 1 | 2 weeks | 4 Tests'
   const courseDescription = 'This course is an introduction to the basic concepts of programming languages, with a strong emphasis on functional programming.This course is an introduction to the Python programming language for students without prior programming experience.'
 
   
