@@ -26,7 +26,7 @@ import './buttoncss.min.css';
 
 export default function Simple() {
   const courseTitle = 'Advance Programming'     //added editable variables
-  const courseSubscript = 'Advance | 2 weeks | 4 Tests'
+  const courseSubscript = 'Advance | 6 weeks | 10 Tests'
   const courseDescription = 'At this level, you should be familiar with most of the concepts, but still there are some gaps to fill and this course is for that purpose.'
   
   const courseObj1 = 'Python Data-Structures'
