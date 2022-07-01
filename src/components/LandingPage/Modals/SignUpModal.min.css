@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500&display=swap');
+
+
+.ModalContent1{
+    background-color: #fdfdfd !important;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500 !important; 
+    border-top-left-radius: 25px !important;
+    border-top-right-radius: 25px !important;
+    border-bottom-left-radius: 25px !important;
+    border-bottom-right-radius: 25px !important;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    line-height: 25px;
+
+}
+
+.ModalHeader1{
+    color: #080F7B !important;
+    font-family: 'Poppins', sans-serif; 
+    font-weight: 900;
+    font-style: bold;
+    text-align: left;
+    background-color: #fdfdfd !important;
+    border-top-left-radius: 25px !important;
+    border-top-right-radius: 25px !important;
+    border-bottom-style: solid !important;
+    border-color: #0000001e !important; 
+    border-width: 2.5px !important;
+    border-top: 0px !important;
+    border-right: 0px !important;
+    border-left: 0px !important;
+}  
+
+.form-control{
+   border-radius: .7rem !important;
+   border-color:#e6e7eb !important;
+   border-width: 1px !important;
+   background-color: #e6e7eb !important;
+   font-family: 'Poppins', sans-serif;
+}
+
+.ModalBody1{
+    background-color: #fdfdfd !important;
+    color: #080F7B !important;
+    justify-content: center !important;
+    margin-top: 0px !important;
+}
+
+.ModalFooter1{
+    background-color: #fdfdfd !important;
+    border-bottom-left-radius: 25px !important;
+    border-bottom-right-radius: 25px !important;
+    color: #080F7B !important;
+    justify-content: center !important;
+    border-bottom-style: solid !important;
+    border-color: #0000001e !important; 
+    border-width: 2.5px !important;
+    border-bottom: 0px !important;
+    border-right: 0px !important;
+    border-left: 0px !important;
+    text-align: center;
+    align-items: center;
+
+    
+}
+
+.Checkbox1{
+    border-color: #00000046 !important; 
+}
+
+.Button1{
+    color: #fdfdfd !important;
+    background-color: #080F7B !important;
+    padding-left: 130px !important;
+    padding-right: 140px !important;
+    margin-left: 1px !important;
+    margin-right: 1px !important;
+}
+
+.Link1{
+    font-size: 15px;
+    text-align: center;
+
+}
+
+.buttongoogle{
+    color: #080f7b !important;
+    background-color: #ffffff !important;
+    padding-left: 140px !important;
+    padding-right: 140px !important;
+    margin-left: 1px !important;
+    margin-right: 1px !important;
+    border-width: 1px !important;
+    border-color: #080f7b !important;
+}
