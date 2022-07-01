@@ -26,7 +26,7 @@ import './buttoncss.min.css';
 
 export default function Simple() {
   const courseTitle = 'Basics Of Programming'     //added editable variables
-  const courseSubscript = 'Beginner | 2 weeks | 4 Tests'
+  const courseSubscript = 'Beginner 2 | 2 weeks | 4 Tests'
   const courseDescription = 'Make your basics stronger with this course.'
   
   const courseObj1 = 'Python Data-Structures'
